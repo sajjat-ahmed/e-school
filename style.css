@@ -6,6 +6,10 @@ body{
 .banner-img{
     padding-bottom: 50px;
     margin-bottom: 50px;
+    padding-top: 50px;
+}
+.banner-text{
+    padding-left: 50px;
 }
 /*hader background color*/
 header {
@@ -119,6 +123,26 @@ h2{
     border-radius: 20px;
     text-decoration: none !important;
 }
+.testimonial-img{
+    height: 140px;
+}
+.testimonial{
+    padding-bottom: px;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-weight: bold;
+}
+/*responsive testimonial section*/
+@media only screen and (max-width: 600px) {
+    .testimonial{
+      padding-left: 0;
+      padding-right: 0;
+    }
+    .testimonial-img{
+        padding-left: 35%;
+        padding-right: 35%;
+    }
+  }
 /*footer text section*/
 section{            
     background-color: #282531;
