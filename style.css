@@ -1,17 +1,22 @@
-body{
+/*body font family*/
+body{               
     font-family: 'Poppins', sans-serif;
 }
+/*top banner image*/
 .banner-img{
     padding-bottom: 50px;
     margin-bottom: 50px;
 }
+/*hader background color*/
 header {
     background-color: #f0fff0;
 }
+/*logo size*/
 .logo {
     margin-top: 16px;
     height: 60px;
 }
+/*green button*/
 .button {
     background-color: #21b573;
     padding: 11px 28px;
@@ -19,24 +24,29 @@ header {
     color: white;
     cursor: pointer;
 }
+/*navbar navlink pogition*/
 ul, li, a{
     padding-left: 25px;
 }
+/*navbar gackground*/
 .navbar {
     background: none!important;
 }
+/*navlink font width*/
 .nav-link {
     font-weight: 550;
-    
 }
+/*top-banner text highlight*/
 .text-highlight {
     color: #21b573;
 }
+/*top-banner p text color*/
 .p-text {
     color: #fc5b27;
     font-size: large;
     font-weight: 490;
 }
+/*top-banner h1 text customize*/
 .h1-text {
     font-size: 50px;
     font-weight: 700;
@@ -61,6 +71,7 @@ h2{
     font-weight: bold;
     padding-bottom: 60px;
 }
+/*4 icon style*/
 .icon1, .icon2, .icon3, .icon4{
     color: #413960;
     margin-bottom: 100px;
@@ -90,12 +101,14 @@ h2{
     padding-bottom: 50px;
     font-weight: 700;
 }
+/*card style chang*/
 .card{
     border: none;
     box-shadow: 5px 5px 50px lightgray;
     border-radius: 20px;
     padding: 18px;
 }
+/*card padding change*/
 .card-padding{
     padding-top: 40px;
 }
@@ -106,15 +119,8 @@ h2{
     border-radius: 20px;
     text-decoration: none !important;
 }
-.text-center{
-    color: #40385f;
-    font-weight: 900;
-}
-.d-titlcare{
-    color: #413960;
-    font-weight: bold;
-}
-section{
+/*footer text section*/
+section{            
     background-color: #282531;
     color: white;
     padding: 30px;
@@ -123,6 +129,7 @@ section{
 footer, small{
     padding-top: 50px;
 }
-.footer-text{
+ /*footer text size*/
+.footer-text{         
     font-size: small;
 }
