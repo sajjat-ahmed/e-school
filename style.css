@@ -29,10 +29,6 @@ ul, li, a{
     font-weight: 550;
     
 }
-.gap{
-    margin-top: 50px;
-    padding: 29px 40px;
-}
 .text-highlight {
     color: #21b573;
 }
@@ -108,7 +104,15 @@ h2{
     background-color:#21b573;
     padding: 6px 25px;
     border-radius: 20px;
-    text-decoration: none;
+    text-decoration: none !important;
+}
+.text-center{
+    color: #40385f;
+    font-weight: 900;
+}
+.d-titlcare{
+    color: #413960;
+    font-weight: bold;
 }
 section{
     background-color: #282531;
