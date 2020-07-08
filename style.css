@@ -1,0 +1,124 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.banner-img{
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+}
+header {
+    background-color: #f0fff0;
+}
+.logo {
+    margin-top: 16px;
+    height: 60px;
+}
+.button {
+    background-color: #21b573;
+    padding: 11px 28px;
+    border-radius: 25px;
+    color: white;
+    cursor: pointer;
+}
+ul, li, a{
+    padding-left: 25px;
+}
+.navbar {
+    background: none!important;
+}
+.nav-link {
+    font-weight: 550;
+    
+}
+.gap{
+    margin-top: 50px;
+    padding: 29px 40px;
+}
+.text-highlight {
+    color: #21b573;
+}
+.p-text {
+    color: #fc5b27;
+    font-size: large;
+    font-weight: 490;
+}
+.h1-text {
+    font-size: 50px;
+    font-weight: 700;
+}
+.p-text-grey {
+    color: gray;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 35px;
+}
+.icon-img{
+    height: 80px;
+    align-items: center;
+    margin-top: 50px;
+    margin: 20px;
+    margin-top: 60px;
+}
+h4{
+    color: #413960;
+}
+h2{
+    font-weight: bold;
+    padding-bottom: 60px;
+}
+.icon1, .icon2, .icon3, .icon4{
+    color: #413960;
+    margin-bottom: 100px;
+}
+.icon1:hover{
+    background-color: white;
+    box-shadow: 5px 5px 20px lightgray;
+    border-radius: 10px;
+}
+.icon2:hover{
+    background-color: white;
+    box-shadow: 5px 5px 20px lightgray;
+    border-radius: 10px;
+}
+.icon3:hover{
+    background-color: white;
+    box-shadow: 5px 5px 50px lightgray;
+    border-radius: 10px;
+}
+.icon4:hover{
+    background-color: white;
+    box-shadow: 5px 5px 20px lightgray;
+    border-radius: 10px;
+}
+.testimonial{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    font-weight: 700;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 50px lightgray;
+    border-radius: 20px;
+    padding: 18px;
+}
+.card-padding{
+    padding-top: 40px;
+}
+.card-button{
+    color: white;
+    background-color:#21b573;
+    padding: 6px 25px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+section{
+    background-color: #282531;
+    color: white;
+    padding: 30px;
+    padding-top: 50px;
+}
+footer, small{
+    padding-top: 50px;
+}
+.footer-text{
+    font-size: small;
+}
